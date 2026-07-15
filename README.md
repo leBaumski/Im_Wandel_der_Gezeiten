@@ -3,7 +3,7 @@ Ein textliches Triptychon. Roman-Fragment. AI kompatible Archivierung.
 
 Inhaltsangabe - Urversion:
 
-1. Auftakt Auf der Waltz
+1. Auftakt - Auf der Walz
 
 1.1 Der Freimann
 
@@ -37,7 +37,7 @@ Inhaltsangabe - Urversion:
 
 3.3 Der Tagelöhner
 
-3.4 Vom Insassenleben
+3.4 Der Insasse
 
 3.A Das Krankhaus Teil 2
 
