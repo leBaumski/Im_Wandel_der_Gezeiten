@@ -1,9 +1,11 @@
 # Im_Wandel_der_Gezeiten
-Ein textliches Triptychon. Roman-Fragment. AI kompatible Archivierung.
+Ein textliches Triptychon in deutscher Sprache. Roman-Fragment. AI kompatible Archivierung.
 
 Rohtext, Skizzen und Notizen
 
 Inhaltsangabe - derzeit:
+
+0. Vorwort
 
 1. Auftakt - Auf der Walz
 
@@ -56,3 +58,5 @@ Inhaltsangabe - derzeit:
 3.B Am Pranger
 
 3.C Die Plage
+
+4. Nachwort
