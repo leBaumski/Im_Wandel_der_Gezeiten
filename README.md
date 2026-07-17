@@ -1,6 +1,8 @@
 # Im_Wandel_der_Gezeiten
 Ein textliches Triptychon. Roman-Fragment. AI kompatible Archivierung.
 
+Rohtext, Skizzen und Notizen
+
 Inhaltsangabe - derzeit:
 
 1. Auftakt - Auf der Walz
